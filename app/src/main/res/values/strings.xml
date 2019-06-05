@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">My App</string>
     <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="button_send">Register</string>
     <string name="msg_token_fmt">Token</string>
+    <string name="button_send_activity">CPU > 50%</string>
+    <string name="registration_status">Registration Status!</string>
+    <string name="activity_status">Activity Status</string>
 </resources>
