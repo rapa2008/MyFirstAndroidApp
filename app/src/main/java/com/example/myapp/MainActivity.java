@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                         // Get new Instance ID token
                         token = task.getResult().getToken();
                         Log.d("TOKEN", token);
-                        Toast.makeText(MainActivity.this, token, Toast.LENGTH_SHORT).show();
+                        //Toast.makeText(MainActivity.this, token, Toast.LENGTH_SHORT).show();
                     }
                 });
         myDeviceID = Build.ID;
